@@ -9,7 +9,7 @@ token = 'не скажу'
 bot = telebot.TeleBot(token)
 
 about_text = '''
-
+https://github.com/FreddyFazberUrUr/TG-botik.git
 '''
 
 help_text = """
